@@ -1,4 +1,4 @@
-FROM openjdk:7u131-jdk-alpine
+FROM openjdk:7-jdk-alpine
 
 RUN apk add --no-cache bash && \
     apk add --no-cache -t build-dependencies wget && \
