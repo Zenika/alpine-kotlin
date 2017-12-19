@@ -3,7 +3,7 @@ FROM openjdk:7-jdk-alpine
 RUN apk add --no-cache bash && \
     apk add --no-cache -t build-dependencies wget && \
     cd /usr/lib && \
-    wget https://github.com/JetBrains/kotlin/releases/download/v1.2.0/kotlin-compiler-1.2.0.zip && \
+    wget https://github.com/JetBrains/kotlin/releases/download/v1.2.10/kotlin-compiler-1.2.10.zip && \
     unzip kotlin-compiler-*.zip && \
     rm kotlin-compiler-*.zip && \
     rm kotlinc/bin/*.bat && \
