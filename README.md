@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/zenika/alpine-kotlin.svg)](https://microbadger.com/images/zenika/alpine-kotlin "More information on microbadger.com")
+
 ### Supported tags and respective `Dockerfile` links
 
  * `1.2.10-jdk8`, `1.2.10`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
