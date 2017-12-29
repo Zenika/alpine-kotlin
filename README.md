@@ -1,6 +1,4 @@
-[![Docker Build Status](https://img.shields.io/docker/build/zenika/alpine-kotlin.svg)](https://hub.docker.com/r/zenika/alpine-kotlin/)
-[![Docker Image Layers](https://images.microbadger.com/badges/image/zenika/alpine-kotlin.svg)](https://microbadger.com/images/zenika/alpine-kotlin "More information on microbadger.com")
-[![Docker Pulls](https://img.shields.io/docker/pulls/zenika/alpine-kotlin.svg)](https://hub.docker.com/r/zenika/alpine-kotlin/)
+[![Docker Build Status](https://img.shields.io/docker/build/zenika/alpine-kotlin.svg)](https://hub.docker.com/r/zenika/alpine-kotlin/) [![Docker Image Layers](https://images.microbadger.com/badges/image/zenika/alpine-kotlin.svg)](https://microbadger.com/images/zenika/alpine-kotlin "More information on microbadger.com") [![Docker Pulls](https://img.shields.io/docker/pulls/zenika/alpine-kotlin.svg)](https://hub.docker.com/r/zenika/alpine-kotlin/)
 
 ### Supported tags and respective `Dockerfile` links
 
