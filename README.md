@@ -24,6 +24,10 @@ See https://en.wikipedia.org/wiki/Kotlin_%28programming_language%29 for more inf
 
 Start using the Kotlin REPL : `docker container run -it --rm zenika/alpine-kotlin`
 
+See Kotlin compiler version : `docker container run -it --rm zenika/alpine-kotlin kotlinc -version`
+
+See Kotlin compiler help : `docker container run -it --rm zenika/alpine-kotlin kotlinc -help`
+
 ### Reference
 
  * Kotlin website : https://kotlinlang.org
