@@ -2,13 +2,9 @@
 
 ### Supported tags and respective `Dockerfile` links
 
- * `1.2.10-jdk8`, `1.2.10`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
+ * `1.2.20-jdk8`, `1.2.20`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
 
- * `1.2.10-jdk7`, `1.2-jdk7`, `1-jdk7`, `jdk7` [(jdk7/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.2/Dockerfile)
-
- * `1.2.20-eap-71-jdk8`, `1.2.20-eap-71`, `1.2.20-jdk8`, `1.2.20` [(jdk8/1.2.20/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2.20/Dockerfile)
-
- * `1.2.20-eap-71-jdk7`, `1.2.20-jdk7` [(jdk7/1.2.20/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.2.20/Dockerfile)
+ * `1.2.20-jdk7`, `1.2-jdk7`, `1-jdk7`, `jdk7` [(jdk7/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.2/Dockerfile)
 
  * `1.1.61-jdk8`, `1.1.61`, `1.1-jdk8`, `1.1` [(jdk8/1.1/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.1/Dockerfile)
 
