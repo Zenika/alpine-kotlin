@@ -10,6 +10,10 @@
 
  * `1.1.61-jdk7`, `1.1-jdk7` [(jdk7/1.1/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.1/Dockerfile)
 
+ * `1.2.30-eap-16-jdk8`, `1.2.30-eap-16`, `1.2.30-eap-jdk8`, `1.2.30-eap`, `1.2-eap-jdk8`, `1.2-eap`, `1-eap-jdk8`, `1-eap`, `eap-jdk8`, `eap` [(jdk8/1.2-eap/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2-eap/Dockerfile)
+
+ * `1.2.30-eap-16-jdk7`, `1.2.30-eap-jdk7`, `1.2-eap-jdk7`, `1-eap-jdk7`, `eap-jdk7` [(jdk7/1.2-eap/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.2-eap/Dockerfile)
+
 ### What is Kotlin
 
 Kotlin is a statically-typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. Its primary development is from a team of JetBrains programmers based in Saint Petersburg, Russia. While the syntax is not compatible with Java, Kotlin is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework.
