@@ -2,17 +2,13 @@
 
 ### Supported tags and respective `Dockerfile` links
 
- * `1.2.21-jdk8`, `1.2.21`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
+ * `1.2.30-jdk8`, `1.2.30`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
 
- * `1.2.21-jdk7`, `1.2-jdk7`, `1-jdk7`, `jdk7` [(jdk7/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.2/Dockerfile)
+ * `1.2.30-jdk7`, `1.2-jdk7`, `1-jdk7`, `jdk7` [(jdk7/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.2/Dockerfile)
 
  * `1.1.61-jdk8`, `1.1.61`, `1.1-jdk8`, `1.1` [(jdk8/1.1/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.1/Dockerfile)
 
  * `1.1.61-jdk7`, `1.1-jdk7` [(jdk7/1.1/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.1/Dockerfile)
-
- * `1.2.30-eap-47-jdk8`, `1.2.30-eap-47`, `1.2.30-eap-jdk8`, `1.2.30-eap`, `1.2-eap-jdk8`, `1.2-eap`, `1-eap-jdk8`, `1-eap`, `eap-jdk8`, `eap` [(jdk8/1.2-eap/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2-eap/Dockerfile)
-
- * `1.2.30-eap-47-jdk7`, `1.2.30-eap-jdk7`, `1.2-eap-jdk7`, `1-eap-jdk7`, `eap-jdk7` [(jdk7/1.2-eap/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.2-eap/Dockerfile)
 
 ### What is Kotlin
 
