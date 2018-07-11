@@ -16,7 +16,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 RUN apk add --no-cache bash && \
     apk add --no-cache -t build-dependencies wget && \
     cd /usr/lib && \
-    wget https://github.com/JetBrains/kotlin/releases/download/v1.2.60-eap-27/kotlin-compiler-1.2.60-eap-27.zip && \
+    wget https://github.com/JetBrains/kotlin/releases/download/v1.2.60-eap-44/kotlin-compiler-1.2.60-eap-44.zip && \
     unzip kotlin-compiler-*.zip && \
     rm kotlin-compiler-*.zip && \
     rm kotlinc/bin/*.bat && \
