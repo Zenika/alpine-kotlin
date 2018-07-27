@@ -10,6 +10,10 @@
 
  * `1.2.60-eap-44-jdk7`, `1.2.60-eap-jdk7`, `1.2-eap-jdk7`, `1-eap-jdk7`, `eap-jdk7` [(jdk7/1.2-eap/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.2-eap/Dockerfile)
 
+ * `1.3-M1-jdk8`, `1.3-M1`, `1.3-jdk8`, `1.3` [(jdk8/1.3/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.3/Dockerfile)
+
+ * `1.3-M1-jdk7`, `1.3-jdk7` [(jdk7/1.3/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.3/Dockerfile)
+
  * `1.1.61-jdk8`, `1.1.61`, `1.1-jdk8`, `1.1` [(jdk8/1.1/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.1/Dockerfile)
 
  * `1.1.61-jdk7`, `1.1-jdk7` [(jdk7/1.1/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk7/1.1/Dockerfile)
