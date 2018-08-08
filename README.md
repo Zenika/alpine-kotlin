@@ -4,6 +4,8 @@
 
  * `1.2.60-jdk8`, `1.2.60`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
 
+ * `1.2.70-eap-4-jdk8`, `1.2.70-eap-4`, `1.2.70-eap-jdk8`, `1.2.70-eap`, `1.2-eap-jdk8`, `1.2-eap`, `1-eap-jdk8`, `1-eap`, `eap-jdk8`, `eap` [(jdk8/1.2-eap/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2-eap/Dockerfile)
+
  * `1.3-M1-jdk8`, `1.3-M1`, `1.3-jdk8`, `1.3` [(jdk8/1.3/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.3/Dockerfile)
 
  * `1.1.61-jdk8`, `1.1.61`, `1.1-jdk8`, `1.1` [(jdk8/1.1/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.1/Dockerfile)
