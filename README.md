@@ -1,5 +1,11 @@
 [![Docker Build Status](https://img.shields.io/docker/build/zenika/alpine-kotlin.svg)](https://hub.docker.com/r/zenika/alpine-kotlin/) [![Docker Pulls](https://img.shields.io/docker/pulls/zenika/alpine-kotlin.svg)](https://hub.docker.com/r/zenika/alpine-kotlin/)
 
+### :warning: Deprecated
+
+This repository is deprecated in favor of [zenika/kotlin](https://hub.docker.com/r/zenika/alpine-kotlin/).
+
+It will soon act as a mirror of [zenika/kotlin](https://hub.docker.com/r/zenika/alpine-kotlin/)'s alpine variant images.
+
 ### Supported tags and respective `Dockerfile` links
 
  * `1.2.60-jdk8`, `1.2.60`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
