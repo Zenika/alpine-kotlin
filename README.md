@@ -1,6 +1,6 @@
 [![Docker Build Status](https://img.shields.io/docker/build/zenika/alpine-kotlin.svg)](https://hub.docker.com/r/zenika/alpine-kotlin/) [![Docker Pulls](https://img.shields.io/docker/pulls/zenika/alpine-kotlin.svg)](https://hub.docker.com/r/zenika/alpine-kotlin/)
 
-### :warning: Deprecated
+### ⚠ Deprecated
 
 This repository is deprecated in favor of [zenika/kotlin](https://hub.docker.com/r/zenika/alpine-kotlin/).
 
