@@ -8,7 +8,7 @@ It will soon act as a mirror of [zenika/kotlin](https://hub.docker.com/r/zenika/
 
 ### Supported tags and respective `Dockerfile` links
 
- * `1.2.60-jdk8`, `1.2.60`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
+ * `1.2.61-jdk8`, `1.2.61`, `1.2-jdk8`, `1.2`, `1-jdk8`, `1`, `jdk8`, `latest` [(jdk8/1.2/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2/Dockerfile)
 
  * `1.2.70-eap-4-jdk8`, `1.2.70-eap-4`, `1.2.70-eap-jdk8`, `1.2.70-eap`, `1.2-eap-jdk8`, `1.2-eap`, `1-eap-jdk8`, `1-eap`, `eap-jdk8`, `eap` [(jdk8/1.2-eap/Dockerfile)](https://github.com/Zenika/alpine-kotlin/blob/master/jdk8/1.2-eap/Dockerfile)
 
