@@ -2,9 +2,9 @@
 
 ### ⚠ Deprecated
 
-This repository is deprecated in favor of [zenika/kotlin](https://hub.docker.com/r/zenika/alpine-kotlin/).
+This repository is deprecated in favor of [zenika/kotlin](https://hub.docker.com/r/zenika/kotlin/).
 
-It will soon act as a mirror of [zenika/kotlin](https://hub.docker.com/r/zenika/alpine-kotlin/)'s alpine variant images.
+It will soon act as a mirror of [zenika/kotlin](https://hub.docker.com/r/zenika/kotlin/)'s alpine variant images.
 
 ### Supported tags and respective `Dockerfile` links
 
